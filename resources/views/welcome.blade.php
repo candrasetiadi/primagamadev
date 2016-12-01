@@ -6,7 +6,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Learning a Education Category Flat Bootstrap Responsive  Website Template | Home :: w3layouts</title>
+<title>Primagama</title>
+
+
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <!-- Custom Theme files -->
